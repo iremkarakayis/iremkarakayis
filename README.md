@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Irem Karakayis</h1>
-<h3 align="center">A frontend developer from Istanbul, Turkiye</h3>
+<h1 align="center">Hi 👋🏻, I'm Irem Karakayis</h1>
+<h3 align="center">iOS Developer from Istanbul, Turkiye</h3>
 
-- 🔭 I’m currently working on **mobile app**
 
-- 🌱 I’m currently learning **SwiftUi**
-
-- 💬 Ask me about **react, vue**
-
-- 📫 How to reach me **iremarakayis@gmail.com**
+- 📫 How to reach me **iremkarakayis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
